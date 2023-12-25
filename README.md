@@ -14,11 +14,6 @@ Welcome to our AI Chat Project, an innovative chat application built with Next.j
 
 ## Getting Started
 
-### Prerequisites
-Ensure you have the following installed:
-- Node.js (version 12 or later)
-- npm (usually comes with Node.js)
-
 ### Installation
 1. **Clone the repository:**
    ```
@@ -40,7 +35,7 @@ Ensure you have the following installed:
 
 2. **Create a `.env.local` file** in the root of your project and add your Cohere API key:
    ```
-   NEXT_PUBLIC_COHERE_API_KEY=your_cohere_api_key_here
+   COHERE_API_KEY=your_cohere_api_key_here
    ```
 
 ### Running the Application
