@@ -43,6 +43,9 @@ To start the application, run:
 ```
 npm run dev
 ```
+### Running the Application
+Live project : https://ai-chat-project-94zfwpp5z-aarifshahariars-projects.vercel.app/
+
 
 # 😊
 
